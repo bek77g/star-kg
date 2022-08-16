@@ -1,0 +1,19 @@
+.post {
+  float: left;
+  margin-right: 2.5%;
+}
+.post img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 0.5em;
+}
+.post .title {
+  font-size: 1em;
+  margin: 1em 0 0 0;
+  color: #252529;
+}
+.post .post_info {
+  font-size: 1em;
+  color: #8b8b9f;
+  margin: 0.5em 0;
+}
